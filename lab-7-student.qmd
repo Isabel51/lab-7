@@ -1,6 +1,6 @@
 ---
 title: "Lab 7: Functions + Fish"
-author: "Your name here!"
+author: "Isabel Villafuerte"
 format: html
 editor: source
 embed-resources: true
